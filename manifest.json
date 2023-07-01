@@ -1,6 +1,6 @@
 {
-    "name": "wedeploy",
-    "short_name": "wedeploy",
+    "name": "flutter_fanzly",
+    "short_name": "flutter_fanzly",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
